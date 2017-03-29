@@ -1,0 +1,9 @@
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.exe.config
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.exe
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.pdb
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\obj\Debug\Wage Calculator.csprojResolveAssemblyReference.cache
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\obj\Debug\Wage_Calculator.Form1.resources
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\obj\Debug\Wage_Calculator.Properties.Resources.resources
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\obj\Debug\Wage Calculator.csproj.GenerateResource.Cache
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\obj\Debug\Wage Calculator.exe
+c:\users\joeco_000\documents\visual studio 2015\Projects\Wage Calculator\Wage Calculator\obj\Debug\Wage Calculator.pdb
